@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>comment</string>
+	<string>weak-nonatomic</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/**
- *  &lt;#comment#&gt;
- */</string>
+	<string>@property (nonatomic, weak) id&lt;&lt;#@protocol#&gt;&gt;                     delegate;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>43E1F3E8-B188-40E8-955B-833F1A8408EA</string>
+	<string>FF2108F7-7E6C-4936-8F4A-175B1C2A39CB</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>/** * */</string>
+	<string>weak</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Comment Code Block</string>
+	<string>Declare Property</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

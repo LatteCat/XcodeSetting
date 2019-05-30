@@ -15,6 +15,8 @@
 	<string>70DF15F0-7C31-4051-991B-D24EB5F7261D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>copy</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Declare Property</string>
 	<key>IDECodeSnippetUserSnippet</key>
