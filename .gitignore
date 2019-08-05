@@ -1,0 +1,11 @@
+# 忽略全部
+/*
+
+# 除了一下几个文件夹
+!/CodeSnippets
+
+!/FontAndColorThemes
+
+!README.md
+
+!.gitignore
