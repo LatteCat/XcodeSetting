@@ -162,7 +162,7 @@
 		<key>xcode.syntax.comment</key>
 		<string>FiraCode-Regular - 14.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>HelveticaNeue - 14.0</string>
+		<string>FiraCode-Regular - 14.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>FiraCode-Bold - 14.0</string>
 		<key>xcode.syntax.declaration.other</key>
@@ -194,7 +194,7 @@
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>FiraCode-Regular - 14.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>FiraCode-Semibold - 14.0</string>
+		<string>FiraCode-Regular - 14.0</string>
 		<key>xcode.syntax.mark</key>
 		<string>FiraCode-Bold - 14.0</string>
 		<key>xcode.syntax.markup.code</key>
