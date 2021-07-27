@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ColumnCodable Double Class</string>
+	<string>ColumnCodable String Class</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -11,24 +11,24 @@
 	<key>IDECodeSnippetContents</key>
 	<string>class &lt;#Class name#&gt;: WCDBSwift.ColumnCodable, WCDBSwift.LiteralValueConvertible, WCDBSwift.ExpressionCanBeOperated {
 	static var columnType: ColumnType {
-		return .float
+		return .text
 	}
     
     required init?(with value: FundamentalValue) {
-    	&lt;#init with value.doubleValue#&gt;
+    	&lt;#init with value.stringValue#&gt;
     }
     
     func archivedValue() -&gt; FundamentalValue {
-        return FundamentalValue(&lt;#Double#&gt;)
+        return FundamentalValue(&lt;#String#&gt;)
     }
 }
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>BD03E1A2-9D1B-432B-B7B8-4AD3BC19023C</string>
+	<string>640CF54E-2DFA-4E63-9324-F0BD4BA77B36</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ColumnCodable Double Snippet</string>
+	<string>ColumnCodable String Snippet</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
